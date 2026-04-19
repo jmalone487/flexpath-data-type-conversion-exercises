@@ -40,7 +40,19 @@ function exercise_01() {
 
   // CODE IN THE OPEN LINES BELOW
 
-  const placeholder = "Delete this line and code in this space";
+ let myString = "Hello, Flexpath!";
+ let myNumber = 42;
+ let myBoolean = true;
+ let myObject = { class: "Javascript" };
+
+ let myUndefined;
+
+ console.log(typeof myString);
+ console.log(typeof myNumber);
+ console.log(typeof myBoolean);
+ console.log(typeof myObject);
+ console.log(myUndefined);
+
 
   // CODE IN THE OPEN LINES ABOVE
 }
